@@ -20,8 +20,9 @@
 </ul>
  
 ## Installation and Running code
-<p> pip install -r requirements.txt</p> 
-<p> python alerts.py </p>
+
+- `pip install -r requirements.txt` 
+- `python alerts.py`
 
   
 
