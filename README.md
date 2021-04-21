@@ -26,3 +26,7 @@
 - `cd Gilfoyle-bitcoin-alert`
 - `pip install -r requirements.txt` 
 - `python alerts.py`
+
+## License
+
+Everything inside this repository is under [MIT License](https://raw.githubusercontent.com/Newell-Road-Strategic-Technologies/Gilfoyle-bitcoin-alert/master/LICENSE).
