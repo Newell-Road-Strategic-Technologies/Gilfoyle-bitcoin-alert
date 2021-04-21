@@ -1,7 +1,8 @@
 
 # Silicon Valley Bitcoin alert
 <img src="gilfoyle.jpg"  title="silicon valley bitcoin alert">
-# Gilfoyle-bitcoin-alert : <small>Bitcoin is Really Volatile Today </small>
+
+# Bitcoin is Really Volatile Today
 
 ## Api : coinmarketcap <a href="https://coinmarketcap.com/api/documentation/v1/#">coinmarketcap</a>
 
