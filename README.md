@@ -22,8 +22,7 @@
  
 ## Installation and Running code
 
+- `git clone https://github.com/Newell-Road-Strategic-Technologies/Gilfoyle-bitcoin-alert.git`
+- `cd Gilfoyle-bitcoin-alert`
 - `pip install -r requirements.txt` 
 - `python alerts.py`
-
-  
-
