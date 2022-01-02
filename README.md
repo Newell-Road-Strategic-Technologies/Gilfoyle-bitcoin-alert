@@ -13,10 +13,10 @@
 <ul>
 
   <li>When the previous price of a bitcoin is hit by the latest price the  program alerts playing Napalm Death mp3</li>
-  <li>previous price is fetched from the alerts.txt file</li>
-  <li>Latest price is fetched from the coinmarketcap api </li>
-  <li>Default currency is in USD But it can be changed on the source code with (USD or whatever you like)</li>
-  <li>This Api changes every 5 minute..so program checks the changes every 5 minute and display results</li>
+  <li>Previous price is fetched from the alerts.txt file</li>
+  <li>Latest price is fetched using coinmarketcap api </li>
+  <li>Default currency is USD, but it can be changed in source code (USD or whatever you like)</li>
+  <li>The program fecthes changes every 5 minute and display results</li>
 
 </ul>
  
