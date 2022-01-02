@@ -20,7 +20,7 @@
 
 </ul>
  
-## Installation and Running code
+## Get Started
 
 - `git clone https://github.com/Newell-Road-Strategic-Technologies/Gilfoyle-bitcoin-alert.git`
 - `cd Gilfoyle-bitcoin-alert`
